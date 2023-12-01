@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job>
+    <PlanItem>
+      <Date>2023-11-27T23:31:03.7754757+07:00</Date>
+      <Job>test</Job>
+      <FromTime>
+        <X>1</X>
+        <Y>1</Y>
+      </FromTime>
+      <ToTime>
+        <X>2</X>
+        <Y>2</Y>
+      </ToTime>
+      <Status>DOING</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2023-11-28T00:00:00</Date>
+      <Job>viet bao cao</Job>
+      <FromTime>
+        <X>1</X>
+        <Y>1</Y>
+      </FromTime>
+      <ToTime>
+        <X>1</X>
+        <Y>1</Y>
+      </ToTime>
+      <Status>DONE</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2023-11-30T00:00:00</Date>
+      <Job>test demo lan cuoi</Job>
+      <FromTime>
+        <X>1</X>
+        <Y>1</Y>
+      </FromTime>
+      <ToTime>
+        <X>1</X>
+        <Y>1</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2023-11-30T00:00:00</Date>
+      <Job>bao cao thu demo</Job>
+      <FromTime>
+        <X>13</X>
+        <Y>30</Y>
+      </FromTime>
+      <ToTime>
+        <X>16</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>DOING</Status>
+    </PlanItem>
+  </Job>
+</PlanData>
